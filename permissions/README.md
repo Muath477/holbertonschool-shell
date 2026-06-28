@@ -14,3 +14,4 @@ This folder contains shell scripts about Linux permissions.
 - `9-John_Doe`: Sets the mode of the file hello to -rwxr-x-wx (753).
 - `10-mirror_permissions`: Sets the mode of the file hello to be the same as the mode of the file olleh.
 - `11-directories_permissions`: Adds execute permission to all subdirectories of the current directory for owner, group, and others.
+- `12-directory_permissions`: Creates a directory called my_dir with permissions 751.
