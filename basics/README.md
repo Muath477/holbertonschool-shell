@@ -18,3 +18,4 @@ This folder contains basic shell scripts.
 - `13-symbolic_link`: Creates a symbolic link to /bin/ls named __ls__ in the current directory.
 - `14-copy_html`: Copies all HTML files from the current directory to the parent directory, only if newer or missing.
 - `15-lets_move`: Moves all files beginning with an uppercase letter to /tmp/u.
+- `16-clean_emacs`: Deletes all files ending with the character ~ in the current directory.
