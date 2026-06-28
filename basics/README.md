@@ -9,3 +9,4 @@ This folder contains basic shell scripts.
 - `4-listmorefiles`: Displays the current directory contents, including hidden files, in a long format.
 - `5-listfilesdigitonly`: Displays the current directory contents in long format with numeric user and group IDs, including hidden files.
 - `6-firstdirectory`: Creates a directory named my_first_directory in /tmp.
+- `7-movethatfile`: Moves the file betty from /tmp to /tmp/my_first_directory.
