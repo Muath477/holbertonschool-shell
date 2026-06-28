@@ -7,3 +7,6 @@ This folder contains shell scripts about input/output redirections and filters.
 
 ## 2-hellofile
 Displays the content of the /etc/passwd file.
+
+## 3-twofiles
+Displays the content of /etc/passwd and /etc/hosts.
