@@ -11,3 +11,4 @@ This folder contains shell scripts about Linux permissions.
 - `6-multiple_permissions`: Adds execute permission to owner and group, and read permission to others, for the file hello.
 - `7-everybody`: Adds execute permission to the owner, group, and other users for the file hello.
 - `8-James_Bond`: Sets permissions so that only other users have all permissions on the file hello.
+- `9-John_Doe`: Sets the mode of the file hello to -rwxr-x-wx (753).
